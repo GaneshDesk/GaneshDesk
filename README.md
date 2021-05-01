@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... MEAN Stack Development
-- 🌱 I’m currently learning ... MEAN Stack Development
-- 💬 Ask me about ... Java, Python, Angular
+- 🔭 I’m currently working on ... IBM's AIX, UNIX System
+- 🌱 I’m currently learning ... UNIX Operating Syatem
+- 💬 Ask me about ... Unix,Java, Python, Angular
 - 📫 How to reach me: ... koradeganesh.r@gmail.com 
 -->
 
