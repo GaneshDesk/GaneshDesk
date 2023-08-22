@@ -2,11 +2,6 @@
 ### Hi here is that I am working on !
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... IBM's AIX, UNIX System
-- 🌱 I’m currently learning ... UNIX Operating Syatem
-- 💬 Ask me about ... Unix,Java, Python, Angular
 - 📫 How to reach me: ... koradeganesh.r@gmail.com 
 -->
 
