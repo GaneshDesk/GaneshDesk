@@ -11,7 +11,7 @@
 
 [<img align="left" alt="YouTube Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-[youtube]: https://www.youtube.com/@ganesh_korade
+[youtube]: https://www.youtube.com/@KoradeGanesh/videos
 
 <br/>
 
